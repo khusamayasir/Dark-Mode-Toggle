@@ -1,5 +1,5 @@
 # Dark-Mode-Toggle
-A simple JavaScript project..
+A simple JavaScript project.
 
 You can also check here: https://dark-mode-toggle-khusamayasir.netlify.app/
 
